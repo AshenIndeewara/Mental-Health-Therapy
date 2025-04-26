@@ -12,7 +12,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: gray;" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.ijse.therapycenter.controller.TherapistController">
+<AnchorPane prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: #f5f5f5;" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.ijse.therapycenter.controller.TherapistController">
     <children>
         <VBox prefHeight="600.0" prefWidth="800.0" spacing="20.0">
             <padding>
@@ -27,6 +27,9 @@
                     <padding>
                         <Insets bottom="5.0" />
                     </padding>
+                    <graphic>
+                        <HBox prefHeight="2.0" prefWidth="80.0" style="-fx-background-color: #3498db;" />
+                    </graphic>
                 </Label>
 
                 <!-- Therapist Form -->

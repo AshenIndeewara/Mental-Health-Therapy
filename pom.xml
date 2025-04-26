@@ -98,7 +98,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                edu.ijse.therapycenter.therapycenter/edu.ijse.therapycenter.Initializer
+                                edu.ijse.therapy_center.therapycenter/edu.ijse.therapy_center.Initializer
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
