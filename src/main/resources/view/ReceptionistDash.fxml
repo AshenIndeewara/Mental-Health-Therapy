@@ -89,7 +89,7 @@
                               <Font name="System Bold" size="12.0" />
                            </font>
                         </Label>
-                        <Label text="Logout" textFill="#4a6bff">
+                        <Label onMouseClicked="#navLogin" text="Logout" textFill="#4a6bff">
                            <font>
                               <Font size="10.0" />
                            </font>
